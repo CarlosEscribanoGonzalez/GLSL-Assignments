@@ -1,0 +1,10 @@
+﻿cl : línea de comandos  warning D9035: La opción 'Gm' está desusada y se quitará en próximas versiones
+  main.cpp
+C:\Users\carlo\Desktop\Uni\Segundo año\Informática Gráfica\Práctica 1\P1GLSL\scr\main.cpp(43,10): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\carlo\Desktop\Uni\Segundo año\Informática Gráfica\Práctica 1\P1GLSL\scr\main.cpp(45,18): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\carlo\Desktop\Uni\Segundo año\Informática Gráfica\Práctica 1\P1GLSL\scr\main.cpp(51,33): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+  P1GLSL.vcxproj -> C:\Users\carlo\Desktop\Uni\Segundo año\Informática Gráfica\Práctica 1\P1GLSL\Debug\P1GLSL.exe

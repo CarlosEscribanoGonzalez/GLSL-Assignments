@@ -1,0 +1,16 @@
+﻿cl : línea de comandos  warning D9035: La opción 'Gm' está desusada y se quitará en próximas versiones
+  main.cpp
+C:\Users\carlo\Desktop\Uni\Segundo año\Primer semestre\Informática Gráfica\Práctica 3\P3\P3OGL\scr\main.cpp(612,24): warning C4305: 'argumento': truncamiento de 'double' a 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\carlo\Desktop\Uni\Segundo año\Primer semestre\Informática Gráfica\Práctica 3\P3\P3OGL\scr\main.cpp(618,25): warning C4305: 'argumento': truncamiento de 'double' a 'T'
+          with
+          [
+              T=float
+          ]
+  auxiliar.cpp
+  Generando código...
+auxiliar.obj : warning LNK4075: se omite '/EDITANDCONTINUE' debido a la especificación '/SAFESEH'
+  P3OGL.vcxproj -> C:\Users\carlo\Desktop\Uni\Segundo año\Primer semestre\Informática Gráfica\Práctica 3\P3\P3OGL\Debug\P3OGL.exe

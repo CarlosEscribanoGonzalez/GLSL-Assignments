@@ -1,0 +1,6 @@
+C:\Users\jorge.lopez\OneDrive - Universidad Rey Juan Carlos\ASIGNATURAS 2022\INFORMÁTICA GRÁFICA\Practicas\Limpias\P3\P3OGL\Debug\P3OGL.exe
+R:\Documents\P3\P3OGL\Debug\P3OGL.exe
+\\myappsdrive.alumnos.urjc.es\Home_VDI$\h.camacho.2021\Documents\P3\P3OGL\Debug\P3OGL.exe
+C:\Users\marco\OneDrive\Escritorio\IG\P3\P3OGL\Debug\P3OGL.exe
+C:\Users\carlo\Desktop\Uni\Segundo año\Informática Gráfica\Práctica 3\P3\P3OGL\Debug\P3OGL.exe
+C:\Users\carlo\Desktop\Uni\Segundo año\Primer semestre\Informática Gráfica\Práctica 3\P3\P3OGL\Debug\P3OGL.exe
